@@ -4,6 +4,7 @@ class MyClass {
 	sysout("mymethd business logic")
 	}
 	main() {
+		myMethod();
 		sysout("Hello Git")
 	}
 }
