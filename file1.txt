@@ -1,4 +1,8 @@
 class MyClass {
+
+	void myMethod() {
+	sysout("mymethd business logic")
+	}
 	main() {
 		sysout("Hello Git")
 	}
